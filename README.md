@@ -1,7 +1,20 @@
-# 💫 About Me:
-### 🚀 Currently Working On<br><br>* Building end-to-end ML systems with MLOps (MLflow + DVC)<br>* Developing APIs for ML models using FastAPI<br>* Automating CI/CD pipelines for model deployment (GitHub Actions + Docker)<br><br>### 🌱 Currently Learning<br><br>* Advanced MLOps & production-grade ML systems<br>* Model monitoring, data drift & pipeline reliability<br>* Exploring Generative AI (LLMs & real-world use cases)<br><br>### 🛠️ Tech Stack<br><br>* **Languages:** Python, SQL<br>* **ML/Data:** Scikit-learn, XGBoost, Pandas, NumPy<br>* **MLOps:** MLflow, DVC, DagsHub<br>* **Backend & Deployment:** FastAPI, Docker, Streamlit, AWS EC2<br>* **Tools:** Git, GitHub, Jupyter Notebook, VS Code<br>
+# Hi, I'm [Rajguru] 👋
 
+I build **end-to-end machine learning systems** — from raw data to deployed, monitored APIs.  
+Currently focused on MLOps, production-grade ML pipelines, and Generative AI.
 
+---
+
+## 🔭 What I'm Building
+
+- End-to-end ML pipelines with **MLflow** (experiment tracking) and **DVC** (data versioning)
+- Production REST APIs for ML models using **FastAPI**
+- Automated CI/CD workflows for model deployment via **GitHub Actions + Docker**
+
+## 🌱 What I'm Learning
+
+- Advanced MLOps — model monitoring, data drift detection, pipeline reliability
+- Generative AI — LLMs and practical real-world applications
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajguru-bhosale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajguru007bhosale@gmail.com) 
 
