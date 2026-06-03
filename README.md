@@ -1,6 +1,6 @@
-# Hi, I'm [Rajguru] 👋
+# Hi, I'm Rajguru 👋
 
-I build **end-to-end machine learning systems** — from raw data to deployed, monitored APIs.  
+I build **end-to-end machine learning systems** — from raw data to production-ready APIs.  
 Currently focused on MLOps, production-grade ML pipelines, and Generative AI.
 
 ---
