@@ -13,8 +13,8 @@ Currently focused on MLOps, production-grade ML pipelines, and Generative AI.
 
 ## 🌱 What I'm Learning
 
-- Advanced MLOps — model monitoring, data drift detection, pipeline reliability
 - Generative AI — LLMs and practical real-world applications
+- Building Rag applications
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajguru-bhosale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajguru007bhosale@gmail.com) 
 
