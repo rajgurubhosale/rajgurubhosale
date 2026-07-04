@@ -1,20 +1,21 @@
 # Hi, I'm Rajguru 👋
 
 I build **end-to-end machine learning systems** — from raw data to production-ready APIs.  
-Currently focused on MLOps, production-grade ML pipelines, and Generative AI.
+Currently focused on MLOps,  ML pipelines, and Generative AI.
 
 ---
 
 ## 🔭 What I'm Building
 
-- End-to-end ML pipelines with **MLflow** (experiment tracking) and **DVC** (data versioning)
-- Production REST APIs for ML models using **FastAPI**
-- Automated CI/CD workflows for model deployment via **GitHub Actions + Docker**
+- **LegalSaathi** — A domain-specific RAG system for Indian legal documents
+
 
 ## 🌱 What I'm Learning
 
-- Generative AI — LLMs and practical real-world applications
-- Building Rag applications
+- Building production-grade **RAG pipelines** — chunking strategies, hybrid search, reranking
+- **LLM application development** — prompt engineering, agentic workflows
+- Scaling ML systems from prototype to deployment
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajguru-bhosale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajguru007bhosale@gmail.com) 
 
