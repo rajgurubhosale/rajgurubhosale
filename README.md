@@ -7,8 +7,7 @@ Currently focused on MLOps,  ML pipelines, and Generative AI.
 
 ## 🔭 What I'm Building
 
-- **LegalSaathi** — A domain-specific RAG system for Indian legal documents
-
+- **Customer-support-agent**  a customer support agent that works 24/7
 
 ## 🌱 What I'm Learning
 
