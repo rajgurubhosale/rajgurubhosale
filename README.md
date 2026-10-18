@@ -1,22 +1,38 @@
-# Hi, I'm Rajguru 👋
+<h1 align="center">Hi, I'm Rajguru 👋</h1>
 
-I build **end-to-end machine learning systems** — from raw data to production-ready APIs.  
-Currently focused on MLOps,  ML pipelines, and Generative AI.
+<p align="center">
+  <b>AI/ML & Backend Engineer</b><br>
+  I build agentic AI and ML systems, then ship them as secure, containerized APIs.<br>
+  <sub>Agentic RAG · Credit Risk Modeling · FastAPI · MLOps</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajguru-bhosale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rajguru007bhosale@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 🔭 What I'm Building
+### 🚀 Featured projects
 
-- **Customer-support-agent**  a customer support agent that works 24/7
+| Project | What it does | Stack |
+|---|---|---|
+| **[⚖️ LegalSaathi](https://github.com/rajgurubhosale/LegalSathiAI)** | Agentic RAG for Indian law. A LangGraph agent searches 22 statutes and each user's private documents, then answers with page-level citations. | LangGraph, ChromaDB, BM25, FastAPI, PostgreSQL, Docker |
+| **[🏦 Credit Risk Scorecard](https://github.com/rajgurubhosale/Credit-Risk-Scorecard-System)** | Probability of Default model (AUC 0.77) that returns a credit score and an Approve / Review / Reject decision. [Live demo](https://rajguru007-credit-risk-system.hf.space) | scikit-learn, DVC, MLflow, FastAPI, Streamlit, CI/CD |
 
-## 🌱 What I'm Learning
+---
 
-- Building production-grade **RAG pipelines** — chunking strategies, hybrid search, reranking
-- **LLM application development** — prompt engineering, agentic workflows
-- Scaling ML systems from prototype to deployment
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajguru-bhosale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajguru007bhosale@gmail.com) 
+### 🎯 Focus areas
+
+- **Agentic AI & RAG:** tool-calling agents, hybrid search, reranking
+- **Credit risk modeling:** PD models, scorecards, WOE/IV
+- **MLOps & backend:** reproducible pipelines, secure APIs, deployment
+
+### 🌱 Currently learning
+
+- **System design:** scalable APIs
+- **Production LLMs:** evaluation, latency, and cost optimization
+- **Fine-tuning:** embedding models, cross-encoders, and LLMs
 
 ## 💻 Tech stack
 
