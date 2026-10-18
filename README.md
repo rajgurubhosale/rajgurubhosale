@@ -1,19 +1,22 @@
 <h1 align="center">Hi, I'm Rajguru 👋</h1>
 
-<p align="center">
-  <b>AI/ML & Backend Engineer</b><br>
-  I build agentic AI and ML systems, then ship them as secure, containerized APIs.<br>
-  <sub>Agentic RAG · Credit Risk Modeling · FastAPI · MLOps</sub>
-</p>
+<h2 align="center">AI/ML & Backend Engineer</h2>
+
+<h3 align="center">
+  I build agentic AI and ML systems, then ship them as secure, containerized APIs.
+</h3>
 
 <p align="center">
-  📧 <a href="mailto:rajguru007bhosale@gmail.com">bhosalerajguru007@gmail.com</a>
+  <b>Agentic RAG · Credit Risk Modeling · FastAPI · MLOps</b>
 </p>
+
+<h3 align="center">
+  📧 <a href="mailto:bhosalerajguru007@gmail.com">bhosalerajguru007@gmail.com</a>
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajguru-bhosale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rajguru-bhosale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>
 </p>
-
 ---
 
 ### 🚀 Featured projects
